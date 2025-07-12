@@ -1,13 +1,20 @@
+<<<<<<< HEAD
 *{
   margin:0;
   padding:0;
 }
+=======
+>>>>>>> 38c26b197fc457bd05874c97d043b5db832666ae
 .nav_container{
   width: 100%;
   min-width: 80%;
   display: flex;
   display: grid;
+<<<<<<< HEAD
   grid-template-columns: 20% 30% 40% 10%;
+=======
+  grid-template-columns: 20% 30% 50%;
+>>>>>>> 38c26b197fc457bd05874c97d043b5db832666ae
   justify-content: space-between;
   vertical-align:middle;
   position: fixed;
@@ -21,6 +28,7 @@ h1{
   font-size: 7vh;
   font-style: oblique;
 }
+<<<<<<< HEAD
 /* Default light theme */
 body.light-mode {
   background-color: #ffffff;
@@ -41,6 +49,8 @@ body.dark-mode a{
 
 
 /*styling the main*/
+=======
+>>>>>>> 38c26b197fc457bd05874c97d043b5db832666ae
 main{
   min-height: 100vh;
   width: 100%;
